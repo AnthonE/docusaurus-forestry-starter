@@ -2,7 +2,7 @@
 title: Tokenomics
 date: '2022-06-06'
 slug: tokenomics
-id: Tokenomics
+id: tokenomics
 sidebar_label: Tokenomics
 
 ---
