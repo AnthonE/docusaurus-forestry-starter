@@ -1,14 +1,15 @@
-module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+﻿module.exports = {
+onBrokenLinks: 'ignore',
+  title: 'Neogen Space Monkey Games',
+  tagline: 'A choatic metaverse',
+  url: 'https://spacemonkey.games',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'Doodlelabs', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Neogen Space Monkey',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -86,13 +87,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.json'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/DirtyF/docusaurus-forestry-starter/edit/master/website/',
+            'https://github.com/AnthonE/docusaurus-forestry-starter/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/DirtyF/docusaurus-forestry-starter/edit/master/website/blog/',
+            'https://github.com/AnthonE/docusaurus-forestry-starter/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
