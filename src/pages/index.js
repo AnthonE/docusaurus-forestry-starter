@@ -6,10 +6,11 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
+
 const features = [
   {
-    title: <>Easy to Use</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: <>Read Whitepaper</>,
+    imageUrl: 'img/icons/book-open.svg',
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
@@ -18,7 +19,8 @@ const features = [
     ),
   },
   {
-    title: <>Focus on What Matters</>,
+      title: <><a href = "https://play.spacemonkey.games"> Try the game</a></>,
+      //href: 'https://github.com/facebook/docusaurus',
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>

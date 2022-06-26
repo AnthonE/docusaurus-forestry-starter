@@ -11,7 +11,7 @@ onBrokenLinks: 'ignore',
     navbar: {
       title: 'Neogen Space Monkey',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Neogen Space Monkey',
         src: 'img/logo.svg',
       },
       items: [
@@ -76,7 +76,6 @@ onBrokenLinks: 'ignore',
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
