@@ -12,7 +12,7 @@ onBrokenLinks: 'ignore',
       title: 'Neogen Space Monkey',
       logo: {
         alt: 'Neogen Space Monkey',
-        src: 'img/logo.svg',
+        src: 'img/Diamond.svg',
       },
       items: [
         {
@@ -86,13 +86,13 @@ onBrokenLinks: 'ignore',
           sidebarPath: require.resolve('./sidebars.json'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/AnthonE/docusaurus-forestry-starter/edit/master/website/',
+            'https://github.com/AnthonE/docusaurus-forestry-starter/edit/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/AnthonE/docusaurus-forestry-starter/edit/master/website/blog/',
+            'https://github.com/AnthonE/docusaurus-forestry-starter/edit/master/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
