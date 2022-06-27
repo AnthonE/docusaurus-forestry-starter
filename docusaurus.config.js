@@ -81,6 +81,7 @@
           ],
         },
       ],
+      copyright: `Built with Docusaurus.`,
     },
   },
   presets: [
