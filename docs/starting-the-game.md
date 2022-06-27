@@ -1,9 +1,9 @@
 ---
-title: Starting the Game
+title: How To Play
 date: '2022-06-06'
 slug: starting-the-game
-id: start-the-game
-sidebar_label: Starting the Game
+id: How To Play
+sidebar_label: How To Play
 
 ---
 ### [PLAY SINGLEPLAYER NOW](https://play.spacemonkey.games "Play singleplayer now")
