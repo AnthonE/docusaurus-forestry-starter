@@ -1,5 +1,5 @@
 ﻿module.exports = {
-onBrokenLinks: 'ignore',
+  onBrokenLinks: 'ignore',
   title: 'Neogen Space Monkey Games',
   tagline: 'A choatic metaverse',
   url: 'https://spacemonkey.games',
@@ -12,7 +12,7 @@ onBrokenLinks: 'ignore',
       title: 'Neogen Space Monkey',
       logo: {
         alt: 'Neogen Space Monkey',
-        src: 'img/logo.svg',
+        src: 'img/icon.png',
       },
       items: [
         {
@@ -30,7 +30,7 @@ onBrokenLinks: 'ignore',
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'Omegakek',
-          position: 'right',
+          position: 'left',
         },
       ],
     },
