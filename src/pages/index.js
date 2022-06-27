@@ -62,10 +62,14 @@ function Home() {
       title={`${siteConfig.title}`}
       description="Chaotic P2E Adventure">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
-
+          background-image: url('https://storageapi.fleek.co/94da0b0e-3d2c-46dc-a94c-df68eb5eec1b-bucket/NGSM/bg1.jpg');
         <div className="container">
 
           <h1 className="hero__title">{siteConfig.title}</h1>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Pz2H4D1LWWc"
+                    title="YouTube video player" frameBorder="32"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen></iframe>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
 
           <div className={styles.buttons}>
@@ -78,10 +82,6 @@ function Home() {
               Read more here!
             </Link>
           </div>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/Pz2H4D1LWWc"
-                    title="YouTube video player" frameBorder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowFullScreen></iframe>
         </div>
       </header>
       <main>
