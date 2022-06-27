@@ -26,6 +26,9 @@
   }
 }
 
+.title{
+  color: #0044B3;
+}
 .buttons {
   display: flex;
   align-items: center;
