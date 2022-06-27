@@ -66,16 +66,12 @@ function Home() {
 
         <div className="container">
 
-          <h1 className="hero__title">{siteConfig.title}</h1>
+          <h1 className="hero__title" color="#005CF3" >{siteConfig.title}</h1>
 
           <p className="hero__subtitle">{siteConfig.tagline}</p>
 
           <div className={styles.buttons}>
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/Pz2H4D1LWWc"
-                      title="YouTube video player" frameBorder="0"
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                      allowFullScreen></iframe>
-              <p className="hero__subtitle"></p>
+
             <Link
               className={classnames(
                 'button button--outline button--secondary button--lg',
@@ -85,6 +81,12 @@ function Home() {
               Read more here!
             </Link>
           </div>
+          <p className="hero__subtitle"></p>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/Pz2H4D1LWWc"
+                  title="YouTube video player" frameBorder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen></iframe>
+          <p className="hero__subtitle"></p>
         </div>
       </header>
       <main>
