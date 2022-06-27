@@ -9,33 +9,34 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Read Whitepaper</>,
-    imageUrl: 'img/icons/book-open.svg',
+    title: <>Play</>,
+      imageUrl: 'img/icons/play-circle.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        A fun 2D, multiplayer, metroidvania adventure in a huge world focused
+        on skill-based gameplay and rewarding greater contributions to the ecosystem
       </>
     ),
   },
   {
-      title: <><a href = "https://play.spacemonkey.games"> Try the game</a></>,
+      //title: <><a href = "https://play.spacemonkey.games"> Try single player</a></>,
+      title: <>Gather</>,
       //href: 'https://github.com/facebook/docusaurus',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/icons/key.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        The world is full of treasure for you to find and plunder
+        Gather items, parts, and mission to use or sell to the highest bidder
       </>
     ),
   },
   {
-    title: <>Powered by React</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: <>Earn</>,
+    imageUrl: 'img/dollar-sign.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Turn in complete missions for Diamonds and deposit Diamonds to collect fees
+        Sell things you don't need on the marketplace to get even more Diamonds
       </>
     ),
   },
@@ -61,12 +62,15 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title}`}
+      description="Chaotic P2E Adventure">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
+
         <div className="container">
+
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
+
           <div className={styles.buttons}>
               <a href = "https://play.spacemonkey.games">
             <Link
@@ -74,8 +78,8 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={('https://play.spacemonkey.games')}>
-              Play Single player
+              to={useBaseUrl('docs/')}>
+              Read more here!
             </Link>
               </a>
           </div>

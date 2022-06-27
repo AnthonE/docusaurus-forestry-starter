@@ -1,7 +1,7 @@
 ﻿module.exports = {
   onBrokenLinks: 'ignore',
-  title: 'Neogen Space Monkey Games',
-  tagline: 'A choatic metaverse',
+  title: 'Neogen Space Monkey Metaverse',
+  tagline: 'Chaotic P2E Adventure',
   url: 'https://spacemonkey.games',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
@@ -18,18 +18,18 @@
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Whitepaper',
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://opensea.io/collection/neogen-space-monkeys-by-dalek-x-generative-artwork',
+          label: 'Opensea',
           position: 'right',
         },
         {
           href: 'https://github.com/facebook/docusaurus',
-          label: 'Omegakek',
+          label: 'Play Solo',
           position: 'left',
         },
       ],
@@ -38,15 +38,15 @@
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Learn',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
+              label: 'Solo',
+              to: 'docs/starting-the-game',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
+              label: 'Multiplayer',
+              to: 'docs/',
             },
           ],
         },
@@ -54,16 +54,16 @@
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Doodle Labs',
+              href: 'https://doodlelabs.io/',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/doodlelabs',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/doodlelabs_io',
             },
           ],
         },
@@ -74,14 +74,10 @@
               label: 'Blog',
               to: 'blog',
             },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
           ],
         },
       ],
-      copyright: `Built with Docusaurus.`,
+      //copyright: `Built with Docusaurus.`,
     },
   },
   presets: [
