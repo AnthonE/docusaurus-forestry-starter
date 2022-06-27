@@ -1,7 +1,9 @@
 ---
-title: NGSM Discord Bot
-date: 2022-06-15
+title: Discord Bot
+date: '2022-06-15'
 slug: ngsm-discord-bot
+id: Discord Bot
+sidebar_label: Discord Bot
 
 ---
 ## [Get Discord Bot](https://discord.com/api/oauth2/authorize?client_id=965325755296915517&permissions=2147483648&scope=bot%20applications.commands "Get Discord Bot")

@@ -1,7 +1,9 @@
 ---
 title: Gameplay
-date: 2022-06-06
+date: '2022-06-06'
 slug: gameplay
+sidebar_label: Gameplay
+id: Gameplay
 
 ---
 The Golden Leader reigns from his throne deep within the Golden core, keeping the peace between the classes until he disappears under mysterious circumstances. Now the Space Monkeys must resist pure chaos and learn to work together to save it all. Gain powerful weapons and abilities, defeat powerful enemies and complete missions while exploring the planetary system to restore order and find the Golden Leader.
