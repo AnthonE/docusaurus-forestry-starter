@@ -21,6 +21,9 @@
     background-image: url('https://storageapi.fleek.co/94da0b0e-3d2c-46dc-a94c-df68eb5eec1b-bucket/NGSM/bg1.jpg');
     padding: 2rem;
   }
+  .title{
+    color: #0044B3;
+  }
 }
 
 .buttons {

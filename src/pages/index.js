@@ -63,7 +63,7 @@ function Home() {
       title={`${siteConfig.title}`}
       description="Chaotic P2E Adventure">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
-          //background-image: url('https://storageapi.fleek.co/94da0b0e-3d2c-46dc-a94c-df68eb5eec1b-bucket/NGSM/bg1.jpg');
+
         <div className="container">
 
           <h1 className="hero__title">{siteConfig.title}</h1>
