@@ -62,11 +62,11 @@ function Home() {
 
       title={`${siteConfig.title}`}
       description="Chaotic P2E Adventure">
-      <header className={classnames('hero hero--primary', styles.heroBanner)}>
+      <header className={classnames('hero hero--primary', styles.heroBanner)} style="color:#005CF3">
 
         <div className="container">
 
-          <h1 className="hero__title" color="#005CF3" >{siteConfig.title}</h1>
+          <h1 className="hero__title" >{siteConfig.title}</h1>
 
           <p className="hero__subtitle">{siteConfig.tagline}</p>
 
