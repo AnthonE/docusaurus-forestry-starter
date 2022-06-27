@@ -1,9 +1,9 @@
 ---
-title: Tokenomics
+title: Blockchain
 date: '2022-06-06'
 slug: tokenomics
-id: tokenomics
-sidebar_label: Tokenomics
+id: Blockchain
+sidebar_label: Blockchain
 
 ---
 ### Diamond
