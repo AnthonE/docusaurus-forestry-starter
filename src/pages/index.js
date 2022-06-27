@@ -59,14 +59,23 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
+
       title={`${siteConfig.title}`}
       description="Chaotic P2E Adventure">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
+
         <div className="container">
-          <h1 className="hero__title"  style="color:#0044B3;" >{siteConfig.title}</h1>
-          <p className="hero__subtitle"  style="color:#0044B3;" >{siteConfig.tagline}</p>
+
+          <h1 className="hero__title">{siteConfig.title}</h1>
+
+          <p className="hero__subtitle">{siteConfig.tagline}</p>
 
           <div className={styles.buttons}>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/Pz2H4D1LWWc"
+                      title="YouTube video player" frameBorder="0"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowFullScreen></iframe>
+              <p className="hero__subtitle"></p>
             <Link
               className={classnames(
                 'button button--outline button--secondary button--lg',
