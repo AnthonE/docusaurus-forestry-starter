@@ -66,9 +66,9 @@ function Home() {
 
         <div className="container">
 
-          <h1 className="hero__title" color="#005CF3" >{siteConfig.title}</h1>
+          <h1 className="hero__title" style="color:#005CF3" >{siteConfig.title}</h1>
 
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <p className="hero__subtitle" style="color:#005CF3">{siteConfig.tagline}</p>
 
           <div className={styles.buttons}>
 
