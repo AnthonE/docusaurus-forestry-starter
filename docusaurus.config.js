@@ -12,7 +12,7 @@ onBrokenLinks: 'ignore',
       title: 'Neogen Space Monkey',
       logo: {
         alt: 'Neogen Space Monkey',
-        src: 'img/Diamond.svg',
+        src: 'img/logo.svg',
       },
       items: [
         {
@@ -25,6 +25,11 @@ onBrokenLinks: 'ignore',
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
+          position: 'right',
+        },
+        {
+          href: 'https://github.com/facebook/docusaurus',
+          label: 'Omegakek',
           position: 'right',
         },
       ],
