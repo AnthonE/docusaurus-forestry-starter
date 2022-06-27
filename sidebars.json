@@ -1,11 +1,10 @@
 {
-  "MainSidebar": {
-    "Single Player": [
-      "tokenomics",
+  "someSidebar": {
+    "Docusaurus": [
       "doc2",
       "doc3"
     ],
-    "White Paper": [
+    "Features": [
       "mdx"
     ]
   }

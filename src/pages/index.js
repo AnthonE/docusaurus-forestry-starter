@@ -68,14 +68,16 @@ function Home() {
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
+              <a href = "https://play.spacemonkey.games">
             <Link
               className={classnames(
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/')}>
-              Get Started
+              to={('https://play.spacemonkey.games')}>
+              Play Single player
             </Link>
+              </a>
           </div>
         </div>
       </header>
