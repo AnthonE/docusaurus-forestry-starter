@@ -1,10 +1,12 @@
 {
   "someSidebar": {
     "Single player": [
-      "Introduction"
+      "How To Play"
     ],
     "Multi player": [
-      "Introduction"
+      "Gameplay",
+      "Introduction",
+      "Blockchain"
     ],
     "Other": [
       "Discord Bot"
