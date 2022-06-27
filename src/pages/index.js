@@ -68,8 +68,12 @@ function Home() {
 
           <h1 className="hero__title" >{siteConfig.title}</h1>
 
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
-
+          <p className="hero__subtitle">  </p>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/Pz2H4D1LWWc?controls=0"
+                  title="YouTube video player" frameBorder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen></iframe>
+          <p className="hero__subtitle">  </p>
           <div className={styles.buttons}>
 
             <Link
@@ -78,15 +82,9 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>
-              Read more here!
+              White Paper
             </Link>
           </div>
-          <p className="hero__subtitle">  </p>
-          <p className="hero__subtitle">  </p>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/Pz2H4D1LWWc?controls=0"
-                  title="YouTube video player" frameBorder="2"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowFullScreen></iframe>
         </div>
       </header>
       <main>
