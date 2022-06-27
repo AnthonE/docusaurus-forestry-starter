@@ -81,7 +81,12 @@ function Home() {
               Read more here!
             </Link>
           </div>
-
+          <p className="hero__subtitle">  </p>
+          <p className="hero__subtitle">  </p>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/Pz2H4D1LWWc?controls=0"
+                  title="YouTube video player" frameBorder="2"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen></iframe>
         </div>
       </header>
       <main>
