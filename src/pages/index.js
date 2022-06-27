@@ -13,8 +13,7 @@ const features = [
       imageUrl: 'img/icons/play-circle.svg',
     description: (
       <>
-        A fun 2D, multiplayer, metroidvania adventure in a huge world focused
-        on skill-based gameplay and rewarding greater contributions to the ecosystem
+        Fun 2D, multiplayer, metroidvania adventure focused on skill-based gameplay and rewarding player contributions
       </>
     ),
   },
@@ -25,18 +24,16 @@ const features = [
     imageUrl: 'img/icons/key.svg',
     description: (
       <>
-        The world is full of treasure for you to find and plunder
-        Gather items, parts, and mission to use or sell to the highest bidder
+         Find items, parts, and mission out in the world that you can use or sell to the highest bidder
       </>
     ),
   },
   {
     title: <>Earn</>,
-    imageUrl: 'img/dollar-sign.svg',
+    imageUrl: 'img/icons/dollar-sign.svg',
     description: (
       <>
-        Turn in complete missions for Diamonds and deposit Diamonds to collect fees
-        Sell things you don't need on the marketplace to get even more Diamonds
+        Turn missions in to get Diamonds then deposit Diamonds in the Vault to collect fees from all transactions
       </>
     ),
   },
@@ -72,7 +69,6 @@ function Home() {
           <p className="hero__subtitle">{siteConfig.tagline}</p>
 
           <div className={styles.buttons}>
-              <a href = "https://play.spacemonkey.games">
             <Link
               className={classnames(
                 'button button--outline button--secondary button--lg',
@@ -81,8 +77,11 @@ function Home() {
               to={useBaseUrl('docs/')}>
               Read more here!
             </Link>
-              </a>
           </div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Pz2H4D1LWWc"
+                    title="YouTube video player" frameBorder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen></iframe>
         </div>
       </header>
       <main>

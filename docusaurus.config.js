@@ -21,14 +21,14 @@
           label: 'Whitepaper',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'blog', label: 'Blog', position: 'right'},
         {
           href: 'https://opensea.io/collection/neogen-space-monkeys-by-dalek-x-generative-artwork',
-          label: 'Opensea',
+          label: 'Get a Neogen Space Monkey',
           position: 'right',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://play.spacemonkey.games',
           label: 'Play Solo',
           position: 'left',
         },
@@ -47,6 +47,10 @@
             {
               label: 'Multiplayer',
               to: 'docs/',
+            },
+            {
+              label: 'Discord Bot',
+              to: 'docs/ngsm-discord-bot',
             },
           ],
         },
@@ -68,11 +72,15 @@
           ],
         },
         {
-          title: 'More',
+          title: 'Artist',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
+              label: 'DALEK',
+              href: 'https://shopdalek.com/',
+            },
+            {
+              label: 'Generative Artworks',
+              href: 'https://generativeart.works/',
             },
           ],
         },
