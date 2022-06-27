@@ -62,7 +62,7 @@ function Home() {
 
       title={`${siteConfig.title}`}
       description="Chaotic P2E Adventure">
-      <header className={classnames('hero hero--primary', styles.heroBanner)} style="color:#005CF3">
+      <header className={classnames('hero hero--primary', styles.heroBanner)}>
 
         <div className="container">
 

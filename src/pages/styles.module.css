@@ -8,11 +8,10 @@
 .heroBanner {
   background-image: url('https://storageapi.fleek.co/94da0b0e-3d2c-46dc-a94c-df68eb5eec1b-bucket/NGSM/bg1.jpg');
   padding: 4rem 0;
-  text-decoration-color: #005CF3;
-  text-emphasis-color: #005CF3;
   text-align: center;
   position: relative;
   overflow: hidden;
+  color: #005CF3;
 }
 
 @media screen and (max-width: 966px) {
@@ -22,7 +21,10 @@
     padding: 2rem;
   }
   .title{
-    color: #0044B3;
+    color: #005CF3;
+  }
+  .h1{
+    color: #005CF3;
   }
 }
 
