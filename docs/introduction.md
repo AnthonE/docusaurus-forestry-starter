@@ -28,10 +28,10 @@ As with all emerging, fast-paced industries built around new technology, problem
 
 **Our Solutions**
 
-* [Deep and engaging game design ](docs/gameplay "Game Design")that is fun to play
-* [Easy to join the game](docs/starting-the-game "Start the game") (onboard through single player web version), NFT not required to begin, normal gameplay flow/no confusing bridging, wrapping or other weird stuff to start playing
-* [Provide experiences for players ](docs/gameplay#missions "Missions")to come together for common goals or battle one another
-* [Carefully designed economy](docs/tokenomics "Tokenomics") with a balance between rewards/spending/item durability to keep economy stable
-* [In-game minting](docs/gameplay#in-game-item-minting "Minting") that requires holders to travel to a specific area within the game world to mint
+* [Deep and engaging game design ](/gameplay "Game Design")that is fun to play
+* [Easy to join the game](/starting-the-game "Start the game") (onboard through single player web version), NFT not required to begin, normal gameplay flow/no confusing bridging, wrapping or other weird stuff to start playing
+* [Provide experiences for players ](/gameplay#missions "Missions")to come together for common goals or battle one another
+* [Carefully designed economy](/tokenomics "Tokenomics") with a balance between rewards/spending/item durability to keep economy stable
+* [In-game minting](/gameplay#in-game-item-minting "Minting") that requires holders to travel to a specific area within the game world to mint
 
 ![Neogen Space Monkeys #2730](/download-12.png "Neogen Space Monkeys #2730")
