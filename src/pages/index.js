@@ -61,7 +61,9 @@ function Home() {
       description="Chaotic P2E Adventure">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <h3 className="hero__title" >{siteConfig.title}</h3>
+            <p>Explore the Neogen</p>
+            <p>Space Monkeys</p>
+            <p>universe in-game!</p>
           <div className={styles.buttons}>
             <Link
                 className={classnames(
@@ -71,15 +73,25 @@ function Home() {
                 to={useBaseUrl('docs/')}>
               Single Player
             </Link>
-            <Link
-              className={classnames(
-                'button button--outline button--secondary button--lg',
-                styles.getStarted,
-              )}
-              to={useBaseUrl('docs/')}>
-              White Paper
-            </Link>
+              <Link
+                  className={classnames(
+                      'button button--outline button--secondary button--lg',
+                      styles.getStarted,
+                  )}
+                  to={useBaseUrl('docs/')}>
+                  White Paper
+              </Link>
           </div>
+            <div className={styles.buttons}>
+            <Link
+                className={classnames(
+                    'button button--outline button--secondary button--lg',
+                    styles.getStarted,
+                )}
+                to={useBaseUrl('docs/')}>
+                White Paper
+            </Link>
+            </div>
         </div>
       </header>
       <main>
