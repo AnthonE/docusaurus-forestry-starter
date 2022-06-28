@@ -61,7 +61,8 @@ function Home() {
       description="Chaotic P2E Adventure">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-            <p>Explore the Neogen Space Monkeys universe in-game!
+            <p>
+                <img src='https://spacemonkey.games/main/info.png'  />
             <img src='https://spacemonkey.games/main/preview.gif'  />
             </p>
           <div className={styles.buttons}>
