@@ -64,6 +64,7 @@ function Home() {
             <p>Explore the Neogen</p>
             <p>Space Monkeys</p>
             <p>universe in-game!</p>
+            <img src='https://spacemonkey.games/main/preview.gif' alt={title} />
           <div className={styles.buttons}>
             <Link
                 className={classnames(
