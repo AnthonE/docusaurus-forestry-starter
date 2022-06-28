@@ -61,10 +61,9 @@ function Home() {
       description="Chaotic P2E Adventure">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-            <p>Explore the Neogen</p>
-            <p>Space Monkeys</p>
-            <p>universe in-game!</p>
+            <p>Explore the Neogen Space Monkeys universe in-game!
             <img src='https://spacemonkey.games/main/preview.gif'  />
+            </p>
           <div className={styles.buttons}>
             <Link
                 className={classnames(
@@ -83,16 +82,6 @@ function Home() {
                   White Paper
               </Link>
           </div>
-            <div className={styles.buttons}>
-            <Link
-                className={classnames(
-                    'button button--outline button--secondary button--lg',
-                    styles.getStarted,
-                )}
-                to={useBaseUrl('docs/')}>
-                White Paper
-            </Link>
-            </div>
         </div>
       </header>
       <main>

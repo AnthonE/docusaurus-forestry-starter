@@ -26,7 +26,13 @@
     color: white;
   }
   .p{
+    font-size: x-large;
+    text-align: left;
+    alignment: left;
     color: white;
+  }
+  .img{
+    alignment: right;
   }
 }
 
