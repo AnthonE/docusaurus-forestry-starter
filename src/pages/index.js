@@ -61,10 +61,13 @@ function Home() {
       description="Chaotic P2E Adventure">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-            <p>
+            <Link>
                 <img src='https://spacemonkey.games/main/info.png'  />
+           </Link>
+            <Link>
             <img src='https://spacemonkey.games/main/preview.gif'  />
-            </p>
+      </Link>
+            
           <div className={styles.buttons}>
             <Link
                 className={classnames(
