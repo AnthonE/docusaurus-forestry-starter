@@ -13,12 +13,12 @@
       content:
           'Multiplayer coming soon! Join our <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/doodlelabs">Discord</a> to stay up to date',
       backgroundColor: '#000000',
-      textColor: '#005CF3',
+      textColor: '#1F75FF',
       isCloseable: true,
     },
     colorMode: {
       defaultMode: 'dark',
-      disableSwitch: false,
+      disableSwitch: true,
       respectPrefersColorScheme: false,
     },
     navbar: {
@@ -46,12 +46,9 @@
         },
 
       ],
-      logo: {
-        alt: ' ',
-        src: 'main/logo.png',
-      },
     },
     footer: {
+      style: 'dark',
       links: [
         {
           title: 'Learn',

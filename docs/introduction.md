@@ -6,7 +6,7 @@ sidebar_label: Introduction
 id: Introduction
 
 ---
-Neogen Space Monkey games are a combination of 2D, multiplayer, metroidvania adventure where everyone can play to earn “[Diamonds](/tokenomics#diamond)” through skill-based gameplay and greater contribution to the ecosystem. Explore the beautiful, abstract world based on [DALEK X Generative Artworks X Doodlelabs NFT, Neogen Space Monkeys](https://neogenspacemonkeys.doodlelabs.io/).
+Neogen Space Monkey games are a combination of 2D, multiplayer, metroidvania adventure where everyone can play to earn “[Diamonds](/docs/tokenomics#diamond)” through skill-based gameplay and greater contribution to the ecosystem. Explore the beautiful, abstract world based on [DALEK X Generative Artworks X Doodlelabs NFT, Neogen Space Monkeys](https://neogenspacemonkeys.doodlelabs.io/).
 
 ![Neogen Space Monkeys #894](/download-11.png "Neogen Space Monkeys #894")
 
