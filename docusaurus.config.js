@@ -8,6 +8,11 @@
   organizationName: 'Doodlelabs', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: true,
+      respectPrefersColorScheme: true,
+    },
     navbar: {
       title: ' ',
       logo: {
