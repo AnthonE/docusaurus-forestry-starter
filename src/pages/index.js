@@ -63,10 +63,26 @@ function Home() {
         <div className="container">
             <Link>
                 <img src='https://spacemonkey.games/main/info.png'  />
+                <Link
+                    className={classnames(
+                        'button button--outline button--secondary button--lg',
+                        styles.getStarted,
+                    )}
+                    to={useBaseUrl('docs/')}>
+                    Single Player
+                </Link>
+                <Link
+                    className={classnames(
+                        'button button--outline button--secondary button--lg',
+                        styles.getStarted,
+                    )}
+                    to={useBaseUrl('docs/')}>
+                    White Paper
+                </Link>
            </Link>
             <Link>
             <img src='https://spacemonkey.games/main/preview.gif'  />
-      </Link>
+           </Link>
 
           <div className={styles.buttons}>
             <Link
@@ -89,6 +105,7 @@ function Home() {
         </div>
       </header>
       <main>
+          <h2>Multiplayer coming soon!</h2>
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">

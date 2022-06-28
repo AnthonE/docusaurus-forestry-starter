@@ -31,10 +31,9 @@
           label: 'Whitepaper',
           position: 'right',
         },
-        {   href: 'https://opensea.io/collection/neogen-space-monkeys-by-dalek-x-generative-artwork', position: 'right',    src: 'img/main/dog.png',},
         {
           href: 'https://opensea.io/collection/neogen-space-monkeys-by-dalek-x-generative-artwork',
-          label: 'Get a Neogen Space Monkey',
+          label: 'Get a Space Monkey',
           position: 'right',
         },
 
