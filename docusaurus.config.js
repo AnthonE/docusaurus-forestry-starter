@@ -10,10 +10,11 @@
   themeConfig: {
     colorMode: {
       defaultMode: 'dark',
-      disableSwitch: false,
+      disableSwitch: true,
       respectPrefersColorScheme: true,
     },
     navbar: {
+      style: 'dark',
       title: ' ',
       logo: {
         alt: ' ',
