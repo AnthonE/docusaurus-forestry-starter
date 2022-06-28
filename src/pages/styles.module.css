@@ -20,9 +20,6 @@
     background-image: url('https://storageapi.fleek.co/94da0b0e-3d2c-46dc-a94c-df68eb5eec1b-bucket/NGSM/bg1.jpg');
     padding: 2rem;
   }
-  .title{
-    color: #005CF3;
-  }
   .h1{
     color: #005CF3;
   }
@@ -35,6 +32,7 @@
 }
 
 .features {
+  text-align: center;
   display: flex;
   align-items: center;
   padding: 2rem 0;
@@ -42,6 +40,6 @@
 }
 
 .featureImage {
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 100px;
 }
