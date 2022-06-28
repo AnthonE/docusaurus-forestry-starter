@@ -86,11 +86,9 @@ function Home() {
                   White Paper
               </Link>
           </div>
-            <h1>Multiplayer coming soon!</h1>
         </div>
       </header>
       <main>
-
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
