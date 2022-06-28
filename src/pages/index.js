@@ -61,13 +61,12 @@ function Home() {
       description="Chaotic P2E Adventure">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-            <div className="thingy">
+            <Link>
                 <img src='https://spacemonkey.games/main/info.png'  />
-
-            </div>
-            <div className="thingy">
+        </Link>
+            <Link>
             <img src='https://spacemonkey.games/main/preview.gif'  />
-            </div>
+      </Link>
 
           <div className={styles.buttons}>
             <Link
@@ -87,14 +86,15 @@ function Home() {
                   White Paper
               </Link>
           </div>
+            <h1>Multiplayer coming soon!</h1>
         </div>
       </header>
       <main>
-          <h2>Multiplayer coming soon!</h2>
+
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
-              <div className="row">
+              <div className="row" >
                 {features.map((props, idx) => (
                   <Feature key={idx} {...props} />
                 ))}

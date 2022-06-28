@@ -36,7 +36,7 @@
 }
 
 .buttons {
-
+  fill: #005CF3;
   color: white;
   display: flex;
   align-items: center;
