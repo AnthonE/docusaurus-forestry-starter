@@ -10,7 +10,7 @@ sidebar_label: Blockchain
 
 Diamonds are the in-game currency that powers the economy. Diamonds can be used to buy parts, items, missions and a variety of helpful perks. The main source of Diamonds is from completing quests that require you to actually play the game. You can also deposit Diamonds into the [Vault](/tokenomics#vault "Vault") to profit from ecosystem fees as well. If more advanced moves like liquidity pools are implemented, Diamonds would play a part in the reward unlocked similar to how “Defi Kingdom” works.
 
-![](docs/game-economy-loop_bigger.png)
+![](/game-economy-loop_bigger.png)
 
 **Earning Diamonds**
 
@@ -45,7 +45,7 @@ xDiamond is a special token you receive from depositing [Diamond](docs/tokenomic
 
 ### Vault
 
-The vault is a place to stake diamond tokens for rewards which come from fee sharing. When you deposit your [Diamond](/tokenomics#diamond "Diamonds") into the Vault, you receive [xDiamond](/tokenomics#xdiamond "xDiamond") in exchange at a ratio that can be found in the information menu. The ratio of xDiamond to Diamond grows over time. When you withdraw, you receive Diamond in exchange at the current ratio. Since this ratio never decreases, you can never receive less Diamond when you withdraw from the Vault than you deposited. You can deposit and withdraw at any time, with no fees.
+The vault is a place to stake diamond tokens for rewards which come from fee sharing. When you deposit your [Diamond](/tokenomics#diamond "Diamonds") into the Vault, you receive [xDiamond](docs/tokenomics#xdiamond "xDiamond") in exchange at a ratio that can be found in the information menu. The ratio of xDiamond to Diamond grows over time. When you withdraw, you receive Diamond in exchange at the current ratio. Since this ratio never decreases, you can never receive less Diamond when you withdraw from the Vault than you deposited. You can deposit and withdraw at any time, with no fees.
 
 ![](/aarpq3yvcl.png)
 
