@@ -6,7 +6,7 @@
  */
 
 .heroBanner {
-  background-image: url('https://spacemonkey.games/img/main/bg.png');
+  background-image: url('https://spacemonkey.games/main/bg.png');
   padding: 4rem 0;
   text-align: center;
   position: relative;
@@ -17,7 +17,7 @@
 @media screen and (max-width: 966px) {
 
   .heroBanner {
-    background-image: url('https://spacemonkey.games/img/main/bg.png');
+    background-image: url('https://spacemonkey.games/main/bg.png');
     padding: 2rem;
   }
   .h1{

@@ -10,7 +10,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>Play</>,
-      imageUrl: 'img/main/play.svg',
+      imageUrl: 'main/play.svg',
     description: (
       <>
         Fun 2D, multiplayer, metroidvania adventure focused on skill-based gameplay and rewarding player contributions
@@ -19,7 +19,7 @@ const features = [
   },
   {
       title: <>Gather</>,
-    imageUrl: 'img/main/gather.svg',
+    imageUrl: 'main/gather.svg',
     description: (
       <>
          Find items, parts, and mission out in the world that you can use or sell to the highest bidder
@@ -28,7 +28,7 @@ const features = [
   },
   {
     title: <>Earn</>,
-    imageUrl: 'img/main/earn.svg',
+    imageUrl: 'main/earn.svg',
     description: (
       <>
         Turn missions in to get Diamonds then deposit Diamonds in the Vault to collect fees from all transactions
@@ -61,7 +61,7 @@ function Home() {
       description="Chaotic P2E Adventure">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <p className="hero__description" >{siteConfig.title}</p>
+          <h3 className="hero__title" >{siteConfig.title}</h3>
           <div className={styles.buttons}>
             <Link
                 className={classnames(

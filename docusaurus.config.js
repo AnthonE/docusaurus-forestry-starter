@@ -9,10 +9,10 @@
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: '',
+      title: ' ',
       logo: {
-        alt: 'Neogen Space Monkey',
-        src: 'img/main/logo.png',
+        alt: ' ',
+        src: 'main/logo.png',
       },
       items: [
         {
