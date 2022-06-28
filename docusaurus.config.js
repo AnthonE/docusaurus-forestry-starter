@@ -9,29 +9,30 @@
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Neogen Space Monkey',
+      title: '',
       logo: {
         alt: 'Neogen Space Monkey',
-        src: 'img/icon.png',
+        src: 'img/main/logo.png',
       },
       items: [
+        {
+          href: 'https://play.spacemonkey.games',
+          label: 'Single Player',
+          position: 'right',
+        },
         {
           to: 'docs/',
           activeBasePath: 'docs',
           label: 'Whitepaper',
-          position: 'left',
+          position: 'right',
         },
-        {to: 'blog', label: 'Blog', position: 'right'},
+        {   href: 'https://opensea.io/collection/neogen-space-monkeys-by-dalek-x-generative-artwork', position: 'right',    src: 'img/main/dog.png',},
         {
           href: 'https://opensea.io/collection/neogen-space-monkeys-by-dalek-x-generative-artwork',
           label: 'Get a Neogen Space Monkey',
           position: 'right',
         },
-        {
-          href: 'https://play.spacemonkey.games',
-          label: 'Play Solo',
-          position: 'left',
-        },
+
       ],
     },
     footer: {
@@ -41,7 +42,7 @@
           title: 'Learn',
           items: [
             {
-              label: 'Solo',
+              label: 'Single Player',
               to: 'docs/starting-the-game',
             },
             {
