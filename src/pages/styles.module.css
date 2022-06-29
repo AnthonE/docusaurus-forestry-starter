@@ -49,10 +49,19 @@
 
 }
 .thing{
+  alignment: center;
   text-align: center;
   display: flex;
   align-items: center;
-  padding: 2rem 0;
+  width: 100%;
+  color: white;
+
+}
+.thing.h1{
+  alignment: center;
+  text-align: center;
+  display: flex;
+  align-items: center;
   width: 100%;
   color: white;
 }

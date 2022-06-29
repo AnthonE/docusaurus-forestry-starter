@@ -62,7 +62,7 @@ function Home() {
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
             <Link>
-                <img src='https://spacemonkey.games/main/info.png'  />
+                <img src='https://spacemonkey.games/main/preview.gif'  />
         </Link>
             <Link>
                 <img src='https://spacemonkey.games/main/preview.gif'  />
@@ -80,6 +80,9 @@ function Home() {
           </div>
         </div>
       </header>
+        <div className="thing" align="center">
+            <h1>Multiplayer features coming soon:</h1>
+        </div>
       <main>
           <div className="thing" align="center">
               <h1>Multiplayer features coming soon:</h1>
