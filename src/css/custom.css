@@ -17,6 +17,8 @@
   --ifm-code-font-size: 95%;
   --ifm-footer-background-color: #18191A;
   --ifm-button-color: #005CF3;
+  --ifm-button-background-color: #005CF3;
+  --ifm-button-border-color:#005CF3;
 }
 
 .docusaurus-highlight-code-line {
