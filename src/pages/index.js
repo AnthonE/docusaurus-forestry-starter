@@ -64,7 +64,7 @@ function Home() {
             <Link>
                 <img src='https://spacemonkey.games/main/info.png'  />
         </Link>
-            &nbsp;
+            &nbsp;   
             <Link>
             <img src='https://spacemonkey.games/main/preview.gif'  />
       </Link>
