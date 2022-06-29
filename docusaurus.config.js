@@ -8,14 +8,14 @@
   organizationName: 'Doodlelabs', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
-    announcementBar: {
-      id: 'support_us',
-      content:
-          'Multiplayer coming soon! Join our <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/doodlelabs">Discord</a> to stay up to date',
-      backgroundColor: '#18191A',
-      textColor: '#1F75FF',
-      isCloseable: true,
-    },
+  //  announcementBar: {
+  //    id: 'support_us',
+  //    content:
+   //       'Multiplayer coming soon! Join our <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/doodlelabs">Discord</a> to stay up to date',
+  //    backgroundColor: '#18191A',
+  //    textColor: '#1F75FF',
+  //    isCloseable: true,
+  //  },
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: true,
@@ -104,11 +104,6 @@
         },
       ],
       //copyright: `Built with Docusaurus.`,
-      logo: {
-        href: 'https://doodlelabs.io/',
-        alt: ' ',
-        src: 'main/dog.svg',
-      },
     },
   },
   presets: [

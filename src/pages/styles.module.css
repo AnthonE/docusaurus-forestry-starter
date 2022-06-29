@@ -15,7 +15,7 @@
   color: white;
 }
 .footer {
-  background-image:url('https://spacemonkey.games/main/bg.svg');
+  background-color: black;
 }
 @media screen and (max-width: 966px) {
 

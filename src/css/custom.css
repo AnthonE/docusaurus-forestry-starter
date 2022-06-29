@@ -21,8 +21,7 @@
   --ifm-button-border-color:#005CF3;
 }
 .footer {
- background-size:75%;
- background-image:url('https://spacemonkey.games/main/bg.svg');
+  background-color: black;
 }
 .buttons {
 

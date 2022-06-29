@@ -75,7 +75,7 @@ function Home() {
                     styles.getStarted,
                 )}
                 to={useBaseUrl('docs/')}>
-              Single Player
+              Play Now!
             </Link>
               <Link
                   className={classnames(
@@ -89,6 +89,9 @@ function Home() {
         </div>
       </header>
       <main>
+          <Link>
+           Multiplayer features coming soon:
+          </Link>
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
