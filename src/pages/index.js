@@ -13,7 +13,7 @@ const features = [
       imageUrl: 'main/play.svg',
     description: (
       <>
-        Fun 2D, multiplayer, metroidvania adventure focused on skill-based gameplay and rewarding player contributions
+        Fun 2D, multiplayer, adventure focused on skill-based gameplay and rewarding player contributions.
       </>
     ),
   },
@@ -22,7 +22,7 @@ const features = [
     imageUrl: 'main/gather.svg',
     description: (
       <>
-         Find items, parts, and mission out in the world that you can use or sell to the highest bidder
+         Find items, parts, and mission out in the world that you can use or sell to the highest bidder.
       </>
     ),
   },
@@ -31,7 +31,7 @@ const features = [
     imageUrl: 'main/earn.svg',
     description: (
       <>
-        Turn missions in to get Diamonds then deposit Diamonds in the Vault to collect fees from all transactions
+        Complete missions in to get Diamonds, then deposit in the Vault to collect transaction fees.
       </>
     ),
   },
@@ -67,7 +67,7 @@ function Home() {
             <Link>
             <img src='https://spacemonkey.games/main/preview.gif'  />
       </Link>
-
+            <div className="container">  </div>
           <div className={styles.buttons}>
             <Link
                 className={classnames(

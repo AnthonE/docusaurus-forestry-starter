@@ -21,7 +21,7 @@
   --ifm-button-border-color:#005CF3;
 }
 .footer {
-  background-size:200% ;
+ background-size:150%;
  background-image:url('https://spacemonkey.games/main/bg.svg');
 }
 .buttons {
@@ -32,7 +32,7 @@
   flood-color: #005CF3;
   solid-color: #005CF3;
   justify-content: center;
-  padding: 1rem 0;
+  padding: 2rem 0;
 
 }
 .docusaurus-highlight-code-line {

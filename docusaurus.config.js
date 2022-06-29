@@ -104,6 +104,10 @@
         },
       ],
       //copyright: `Built with Docusaurus.`,
+      logo: {
+        alt: ' ',
+        src: 'main/dog.avg',
+      },
     },
   },
   presets: [
