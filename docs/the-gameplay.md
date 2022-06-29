@@ -28,25 +28,25 @@ Full Family Mooks collection: 1 mission mint. This is in addition to the 1 missi
 
 ### Avatar Customization
 
-While anyone is able to use a standard avatar, NGSM collectors have an advantage: they can mix and match [parts](/gameplay#parts "parts") from their NGSM NFTs to build custom avatars. Some of the NFT parts are cosmetic, while other parts have in-game advantages such as enhanced health, durability, or speed.
+While anyone is able to use a standard avatar, NGSM collectors have an advantage: they can mix and match [parts](/docs/gameplay#parts "parts") from their NGSM NFTs to build custom avatars. Some of the NFT parts are cosmetic, while other parts have in-game advantages such as enhanced health, durability, or speed.
 
 ![](/e0b1qagyux.png)
 
-Additional parts can be obtained by destroying an enemy who drops loot, buying from an in-game vendor, or purchasing from the [Depot](/gameplay#depot "Depot"). NGSM collectors are also able to sell unused parts in the depot.
+Additional parts can be obtained by destroying an enemy who drops loot, buying from an in-game vendor, or purchasing from the [Depot](/docs/gameplay#depot "Depot"). NGSM collectors are also able to sell unused parts in the depot.
 
 ### Missions
 
 Token: ERC-721
 
-Missions are tokens that fuel the main gameplay loop of NGSM: Online. There are 3 basic types of missions: kill missions, repair missions and bounty missions. With the exception of bounty missions, all missions will require a Neogen Space Monkey or Family Mooks NFT to mint, or can be purchased in the [Depot](/gameplay#depot "Depot"). Once minted, all missions will exist as an NFT within the player’s wallet and can be sold or traded to other players. All missions will expire(burn) after a determined period of time if not completed. Missions can be minted every 7 days and will expire after 14 days. These values may change if mission supply needs to be adjusted.
+Missions are tokens that fuel the main gameplay loop of NGSM: Online. There are 3 basic types of missions: kill missions, repair missions and bounty missions. With the exception of bounty missions, all missions will require a Neogen Space Monkey or Family Mooks NFT to mint, or can be purchased in the [Depot](/docs/gameplay#depot "Depot"). Once minted, all missions will exist as an NFT within the player’s wallet and can be sold or traded to other players. All missions will expire(burn) after a determined period of time if not completed. Missions can be minted every 7 days and will expire after 14 days. These values may change if mission supply needs to be adjusted.
 
 ![](/kztojxu2mo.png)
 
 Kill missions require a player to destroy a specified number of enemies in order to collect the reward.
 
-Repair missions require a player to travel to a specified location and interact with an object to repair it before collecting the reward. Sometimes repair missions will require the player to find and collect an item in order to complete the repair. Players will be able to buy or sell items at the [Depot](/gameplay#depot "Depot").
+Repair missions require a player to travel to a specified location and interact with an object to repair it before collecting the reward. Sometimes repair missions will require the player to find and collect an item in order to complete the repair. Players will be able to buy or sell items at the [Depot](/docs/gameplay#depot "Depot").
 
-Bounty missions are minted by players to target other players. Each bounty requires a deposit of a fixed number of [Diamond](/tokenomics#diamond "Diamond"), the currency that fuels the economy in NGSM: Online. Bounty missions will be minted via in-game kiosk or NPC that players can interact with and can be sold or traded at the Depot.
+Bounty missions are minted by players to target other players. Each bounty requires a deposit of a fixed number of [Diamond](/docs/tokenomics#diamond "Diamond"), the currency that fuels the economy in NGSM: Online. Bounty missions will be minted via in-game kiosk or NPC that players can interact with and can be sold or traded at the Depot.
 
 ### Parts
 
@@ -74,12 +74,12 @@ To combat the problem of equipment piling up, we introduced durability. When an 
 
 Token: ERC-721 or ERC-1155
 
-Some essential basic items will be purchasable from an in-game vendor by using [Diamond](/tokenomics#diamond "Diamond"), either unlimited supply or on timers with limited supply. In-game items will also drop from enemies when they are destroyed. Some items could be in a “phased” state after collecting and require some “dephasing” process to mint and/or reveal them completely.
+Some essential basic items will be purchasable from an in-game vendor by using [Diamond](/docs/tokenomics#diamond "Diamond"), either unlimited supply or on timers with limited supply. In-game items will also drop from enemies when they are destroyed. Some items could be in a “phased” state after collecting and require some “dephasing” process to mint and/or reveal them completely.
 
 Consumables are items that can be used for an advantage in-game. For example, a player may use a Health Potion to regain some health points.
 
 ### Depot
 
-The depot is simply an in-game Auction House, similar to those in games like World of Warcraft. Players will be able to list in game items for other players to purchase from the depot with [Diamond](/tokenomics#diamond "Diamond").
+The depot is simply an in-game Auction House, similar to those in games like World of Warcraft. Players will be able to list in game items for other players to purchase from the depot with [Diamond](/docs/tokenomics#diamond "Diamond").
 
 ![](/aguqinsxk0.png)

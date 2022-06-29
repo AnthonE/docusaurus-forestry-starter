@@ -19,8 +19,11 @@
   --ifm-button-color: #005CF3;
   --ifm-button-background-color: #005CF3;
   --ifm-button-border-color:#005CF3;
+  --ifm-font-color-base:#005CF3;
 }
-
+.footer {
+ background-image:url('https://spacemonkey.games/main/bg.svg');
+}
 .docusaurus-highlight-code-line {
   background-color: rgb(72, 77, 91);
   display: block;

@@ -14,7 +14,9 @@
   overflow: hidden;
   color: white;
 }
-
+.footer {
+  background-image:url('https://spacemonkey.games/main/bg.svg');
+}
 @media screen and (max-width: 966px) {
 
   .heroBanner {
@@ -48,8 +50,6 @@
 }
 
 .features {
-  background-image: url('https://spacemonkey.games/main/bg.svg');
-  background-position: center;
   text-align: center;
   display: flex;
   align-items: center;
