@@ -46,13 +46,8 @@
         },
 
       ],
-      logo: {
-        alt: ' ',
-        src: 'main/logo.png',
-      },
     },
     footer: {
-      style: 'dark',
       links: [
         {
           title: 'Learn',
