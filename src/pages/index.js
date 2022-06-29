@@ -65,7 +65,11 @@ function Home() {
                 <img src='https://spacemonkey.games/main/info.png'  />
         </Link>
             <Link>
-            <img src='https://spacemonkey.games/main/preview.gif'  />
+                <iframe
+                    src="https://player.vimeo.com/video/725442859?h=26040decf5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+                    width="449" height="253" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture"
+                    allowFullScreen title="Level 2 Teaser"></iframe>
+               
       </Link>
             <p></p>
             <div className={styles.buttons}>
@@ -77,21 +81,13 @@ function Home() {
                 to={useBaseUrl('docs/')}>
               Play Now!
             </Link>
-              <Link
-                  className={classnames(
-                      'button button--outline button--secondary button--lg',
-                      styles.getStarted,
-                  )}
-                  to={useBaseUrl('docs/')}>
-                  White Paper
-              </Link>
           </div>
         </div>
       </header>
       <main>
-          <Link>
+          <div className="thing">
            Multiplayer features coming soon:
-          </Link>
+          </div>
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">

@@ -48,7 +48,14 @@
   padding: 1rem 0;
 
 }
-
+.thing{
+  text-align: center;
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+  color: white;
+}
 .features {
   text-align: center;
   display: flex;
