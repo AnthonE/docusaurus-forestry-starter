@@ -37,17 +37,7 @@
 
 }
 
-.buttons {
 
-  color: white;
-  display: flex;
-  align-items: center;
-  flood-color: #005CF3;
-  solid-color: #005CF3;
-  justify-content: center;
-  padding: 1rem 0;
-
-}
 
 .features {
   text-align: center;
