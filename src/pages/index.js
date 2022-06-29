@@ -78,7 +78,6 @@ function Home() {
                 to={useBaseUrl('docs/')}>
               Single Player
             </Link>
-                <p> &nbsp;&nbsp;&nbsp; </p>
               <Link
                   className={classnames(
                       'button button--outline button--secondary button--lg',
