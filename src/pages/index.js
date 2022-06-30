@@ -87,7 +87,7 @@ function Home() {
             <div className="container">
               <div className="row" >
                   <div className="thing" align="center">
-                      <h2>Multiplayer features coming soon:</h2>
+                      Multiplayer features coming soon:
                   </div>
                 {features.map((props, idx) => (
                   <Feature key={idx} {...props} />
