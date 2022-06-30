@@ -42,8 +42,8 @@
 
 .header-github-link::before {
   content: '';
-  width: 24px;
-  height: 24px;
+  width: 32px;
+  height: 32px;
   display: flex;
   background: url('https://spacemonkey.games/main/dog.svg')
   no-repeat;
