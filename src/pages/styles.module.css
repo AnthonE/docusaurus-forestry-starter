@@ -59,6 +59,7 @@
   color: black;
   border:  1px;
   border-color: #0053D9;
+  justify-content: center;
 }
 
 .features {

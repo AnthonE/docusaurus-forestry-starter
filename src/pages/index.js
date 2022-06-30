@@ -83,10 +83,11 @@ function Home() {
       <main>
         {features && features.length > 0 && (
           <section className={styles.features}>
+              <div className="thing" align="center">
+                  <h1><center>Multiplayer features coming soon:</center></h1>
+              </div>
             <div className="container">
-                <div className="thing" align="center">
-                    <h1><center>Multiplayer features coming soon:</center></h1>
-                </div>
+
               <div className="row" >
 
                 {features.map((props, idx) => (

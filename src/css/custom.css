@@ -23,16 +23,6 @@
 .footer {
   background-color: black;
 }
-.thing{
-  display: none;
-  padding: 0px;
-  text-align: center;
-  display: flex;
-  align-items: center;
-  color: white;
-  border:  1px;
-  border-color: #0053D9;
-}
 
 .buttons {
 
