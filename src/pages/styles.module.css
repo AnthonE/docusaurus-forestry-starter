@@ -49,6 +49,8 @@
 
 }
 .thing{
+  display: none;
+  padding: 0px;
   alignment: center;
   text-align: center;
   display: flex;
