@@ -7,7 +7,7 @@
 
 .heroBanner {
   background-image: url('https://spacemonkey.games/main/bg.svg');
-  padding: 2rem 0;
+  padding: 1rem 0;
   background-position: center;
   text-align: center;
   position: relative;
@@ -55,21 +55,24 @@
   align-items: center;
   width: 100%;
   color: white;
-
+  border:  1px;
+  border-color: #0053D9;
 }
-.thing.h1{
+.thing.h2{
   alignment: center;
   text-align: center;
   display: flex;
   align-items: center;
-  width: 100%;
+  width: 90%;
   color: white;
+  border:  1px;
+  border-color: #0053D9;
 }
 .features {
   text-align: center;
   display: flex;
   align-items: center;
-  padding: 2rem 0;
+  padding: 1rem 0;
   width: 100%;
 }
 

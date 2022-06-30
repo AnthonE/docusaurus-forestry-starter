@@ -27,8 +27,19 @@
   text-align: center;
   display: flex;
   align-items: center;
-  padding: 2rem 0;
   width: 100%;
+  color: white;
+  border:  1px;
+  border-color: #0053D9;
+}
+.thing.h2{
+  border:  1px;
+  border-color: #0053D9;
+  alignment: center;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  width: 90%;
   color: white;
 }
 .buttons {
