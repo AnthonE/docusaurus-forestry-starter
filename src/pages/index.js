@@ -80,17 +80,15 @@ function Home() {
           </div>
         </div>
       </header>
-        <div className="thing" align="center">
-            Multiplayer features coming soon:
-        </div>
       <main>
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
+                <div className="thing" align="center">
+                    <h1><center>Multiplayer features coming soon:</center></h1>
+                </div>
               <div className="row" >
-                  <div className="thing" align="center">
-                      Multiplayer features coming soon:
-                  </div>
+
                 {features.map((props, idx) => (
                   <Feature key={idx} {...props} />
                 ))}
