@@ -3,6 +3,7 @@
   title: 'Neogen Space Monkey Metaverse',
   tagline: 'Chaotic P2E Adventure',
   url: 'https://spacemonkey.games',
+
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'Doodlelabs', // Usually your GitHub org/user name.
@@ -51,8 +52,10 @@
           position: 'right',
         },
         {
-          type: 'custom-dogfood-navbar-item',
-          content: '😉',
+          href: 'https://github.com/facebook/docusaurus',
+          position: 'right',
+          className: 'header-github-link',
+          'aria-label': 'GitHub repository',
         },
       ],
     },
