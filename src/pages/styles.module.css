@@ -54,20 +54,11 @@
   display: flex;
   align-items: center;
   width: 100%;
-  color: white;
+  color: black;
   border:  1px;
   border-color: #0053D9;
 }
-.thing.h2{
-  alignment: center;
-  text-align: center;
-  display: flex;
-  align-items: center;
-  width: 90%;
-  color: white;
-  border:  1px;
-  border-color: #0053D9;
-}
+
 .features {
   text-align: center;
   display: flex;
