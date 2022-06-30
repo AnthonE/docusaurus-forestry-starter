@@ -79,17 +79,16 @@ function Home() {
             </Link>
           </div>
         </div>
-          <div className="thing" align="center">
-              <h1>Multiplayer features coming soon:</h1>
-          </div>
       </header>
 
       <main>
-
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
               <div className="row" >
+                  <div className="thing" align="center">
+                      <h1>Multiplayer features coming soon:</h1>
+                  </div>
                 {features.map((props, idx) => (
                   <Feature key={idx} {...props} />
                 ))}
