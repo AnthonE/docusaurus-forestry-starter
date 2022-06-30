@@ -41,12 +41,6 @@
           position: 'right',
         },
         {
-          to: 'blog/',
-          activeBasePath: 'blog',
-          label: 'News',
-          position: 'right',
-        },
-        {
           href: 'https://opensea.io/collection/neogen-space-monkeys-by-dalek-x-generative-artwork',
           label: 'Get a Space Monkey',
           position: 'right',
