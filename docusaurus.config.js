@@ -50,7 +50,10 @@
           label: 'Get a Space Monkey',
           position: 'right',
         },
-
+        {
+          type: 'custom-dogfood-navbar-item',
+          content: '😉',
+        },
       ],
     },
     footer: {
