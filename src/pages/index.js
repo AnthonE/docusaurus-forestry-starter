@@ -60,7 +60,7 @@ function Home() {
       title={`${siteConfig.title}`}
       description="Chaotic P2E Adventure">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
-          <p></p>
+
         <div className="container">
             <Link>
                 <img src='https://spacemonkey.games/main/info.png'  />
@@ -68,7 +68,7 @@ function Home() {
             <Link>
                 <img src='https://spacemonkey.games/main/preview.gif'  />
          </Link>
-            <p></p>
+
             <div className={styles.buttons}>
             <Link
                 className={classnames(
@@ -83,9 +83,9 @@ function Home() {
       </header>
       <main>
           <div className="thing" align="center">
- 
+              <p></p>
               <h1><center>Multiplayer features coming soon:</center></h1>
-
+              <p></p>
           </div>
         {features && features.length > 0 && (
           <section className={styles.features}>
