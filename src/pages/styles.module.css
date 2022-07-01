@@ -50,15 +50,13 @@
 }
 .thing{
   display: none;
-  padding: 1px;
+  padding: 4px;
   alignment: center;
   text-align: center;
   display: flex;
   align-items: center;
   width: 100%;
   color: black;
-  border:  1px;
-  border-color: #0053D9;
   justify-content: center;
 }
 .thingy{
@@ -70,8 +68,7 @@
   display: flex;
   align-items: center;
   padding: 3rem 0;
-  width: 90%;
-  max-height: 300px;
+  width: 100%;
 }
 
 .featureImage {

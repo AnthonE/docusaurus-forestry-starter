@@ -60,6 +60,7 @@ function Home() {
       title={`${siteConfig.title}`}
       description="Chaotic P2E Adventure">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
+          <p></p>
         <div className="container">
             <Link>
                 <img src='https://spacemonkey.games/main/info.png'  />
@@ -82,21 +83,19 @@ function Home() {
       </header>
       <main>
           <div className="thing" align="center">
+              <p></p>
               <h1><center>Multiplayer features coming soon:</center></h1>
+              <p></p>
           </div>
         {features && features.length > 0 && (
           <section className={styles.features}>
-              <div className="thingy">
             <div className="container">
-
               <div className="row" >
-
                 {features.map((props, idx) => (
                   <Feature key={idx} {...props} />
                 ))}
               </div>
             </div>
-              </div>
           </section>
         )}
       </main>
