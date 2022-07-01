@@ -68,7 +68,7 @@ function Home() {
             <Link>
                 <img src='https://spacemonkey.games/main/preview.gif'  />
          </Link>
-         
+
             <div className={styles.buttons}>
             <Link
                 className={classnames(
