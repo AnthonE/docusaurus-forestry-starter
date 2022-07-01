@@ -83,9 +83,9 @@ function Home() {
       </header>
       <main>
           <div className="thing" align="center">
-              <p></p>
+ 
               <h1><center>Multiplayer features coming soon:</center></h1>
-              <p></p>
+
           </div>
         {features && features.length > 0 && (
           <section className={styles.features}>
