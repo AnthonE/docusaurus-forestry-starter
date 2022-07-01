@@ -6,8 +6,7 @@
  */
 
 .heroBanner {
-  background-image: url('https://spacemonkey.games/main/bg.svg');
-  padding: 3rem 0;
+  background-image: url('https://storageapi.fleek.co/94da0b0e-3d2c-46dc-a94c-df68eb5eec1b-bucket/NGSM/bg2.jpg');
   background-position: center;
   text-align: center;
   position: relative;
@@ -20,7 +19,7 @@
 @media screen and (max-width: 966px) {
 
   .heroBanner {
-    background-image: url('https://spacemonkey.games/main/bg.svg');
+    background-image: url('https://storageapi.fleek.co/94da0b0e-3d2c-46dc-a94c-df68eb5eec1b-bucket/NGSM/bg2.jpg');
     background-position: center;
     padding: 4rem;
   }

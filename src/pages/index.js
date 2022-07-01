@@ -60,7 +60,7 @@ function Home() {
       title={`${siteConfig.title}`}
       description="Chaotic P2E Adventure">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
-
+          <p></p>
         <div className="container">
             <Link>
                 <img src='https://spacemonkey.games/main/info.png'  />
