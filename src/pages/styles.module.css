@@ -7,7 +7,7 @@
 
 .heroBanner {
   background-image: url('https://spacemonkey.games/main/bg.svg');
-  padding: 1rem 0;
+  padding: 3rem 0;
   background-position: center;
   text-align: center;
   position: relative;
@@ -22,7 +22,7 @@
   .heroBanner {
     background-image: url('https://spacemonkey.games/main/bg.svg');
     background-position: center;
-    padding: 2rem;
+    padding: 4rem;
   }
   .h1{
     color: white;
@@ -45,12 +45,12 @@
   flood-color: #005CF3;
   solid-color: #005CF3;
   justify-content: center;
-  padding: 1rem 0;
+  padding: 3rem 0;
 
 }
 .thing{
   display: none;
-  padding: 0px;
+  padding: 1px;
   alignment: center;
   text-align: center;
   display: flex;
@@ -61,13 +61,17 @@
   border-color: #0053D9;
   justify-content: center;
 }
-
+.thingy{
+  height: 300px;
+  max-height: 320px;
+}
 .features {
   text-align: center;
   display: flex;
   align-items: center;
-  padding: 1rem 0;
-  width: 100%;
+  padding: 3rem 0;
+  width: 90%;
+  max-height: 300px;
 }
 
 .featureImage {
