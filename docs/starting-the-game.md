@@ -23,9 +23,13 @@ Spacebar: Jump
 Spacebar x2: Double Jump  
 Shift: Air Dash  
 Enter or Left mouse click: Shoot  
-Hold Enter or Left Mouse hold: Charge shot; release button to shoot
+Hold Enter or Left Mouse hold: Charge shot; release button to shoot  
+Tab: Pause/Main menu  
+Esc: Exit fullscreen
 
-![](/keyboard-graphic-e.png)**Controller Controls:**  
+![](/img/keyboard-graphic-launch-day.png)
+
+**Controller Controls:**  
 Start: Pause/ Main Menu  
 Joystick or D-pad: Move your Space Monkey to the left or right  
 A: Jump  
