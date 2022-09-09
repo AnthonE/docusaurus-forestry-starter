@@ -8,7 +8,7 @@ id: Gameplay
 ---
 The Golden Leader reigns from his throne deep within the Golden core, keeping the peace between the classes until he disappears under mysterious circumstances. Now the Space Monkeys must resist pure chaos and learn to work together to save it all. Gain powerful weapons and abilities, defeat powerful enemies and complete missions while exploring the planetary system to restore order and find the Golden Leader.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Pz2H4D1LWWc" title="Neogen Space Monkey Preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://player.vimeo.com/video/725442859?h=26040decf5" title="Neogen Space Monkey Preview" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ### In-game Item Minting
 
