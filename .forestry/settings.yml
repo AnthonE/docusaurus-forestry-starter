@@ -18,6 +18,8 @@ sections:
   label: Blog
   create: documents
   match: "*.md"
+  templates:
+  - blog-post
 - type: document
   path: sidebars.json
   label: Sidebar
