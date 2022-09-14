@@ -2,15 +2,15 @@
 tags:
 - Single Player
 - Update
-id: Single Player Update 1- Analytics
-title: Single Player Update 1- Analytics
+id: Single Player Update 1-Analytics
+title: Single Player Update 1-Analytics
 author: Anthony
 author_title: Game designer and programmer
 author_url: https://twitter.com/EckertAnthony
 author_image_url: https://storageapi.fleek.co/94da0b0e-3d2c-46dc-a94c-df68eb5eec1b-bucket/ngsm.png
 
 ---
-# Update 1- Analytics
+# Update 1-Analytics
 
 We added some analytics to track player progression and errors. This isn't used for advertising or anything like that. The ability to figure out where too many players are dying or that a button is not functioning properly all the time, really helps us to improve the product. With that said, you will need to accept some terms and services after this update. 
 
