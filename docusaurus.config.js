@@ -46,7 +46,7 @@
           label: 'How to play',
           position: 'right',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'blog', label: 'Blog', position: 'right'},
         {
           href: 'https://opensea.io/collection/neogen-space-monkeys-by-dalek-x-generative-artwork',
           label: 'Get a Space Monkey',
