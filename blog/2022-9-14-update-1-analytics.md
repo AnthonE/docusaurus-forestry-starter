@@ -2,7 +2,7 @@
 tags:
 - Single Player
 - Update
-id: Single Player Update 1-Analytics
+slug: Single Player Update 1-Analytics
 title: Single Player Update 1-Analytics
 author: Anthony
 author_title: Game designer and programmer
