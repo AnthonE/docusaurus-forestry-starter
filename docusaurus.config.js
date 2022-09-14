@@ -125,6 +125,9 @@
         },
         blog: {
           showReadingTime: true,
+          blogSidebarCount: '5',
+
+
           // Please change this to your repo.
          // editUrl:
            // 'https://github.com/AnthonE/docusaurus-forestry-starter/edit/master/blog/',
