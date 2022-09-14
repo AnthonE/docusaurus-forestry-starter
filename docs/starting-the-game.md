@@ -8,7 +8,7 @@ sidebar_label: How To Play
 ---
 ## How to play
 
-Starting the game is very simple. Players do not even need to hold a Neogen Space Monkey to begin. Simply [click here]() to start playing! Link your wallet to confirm ownership of a NGSM and you'll be able to save your game data, submit your high scores to the leaderboard and customize the appearance of your monkey based on the traits on your NGSM NFT.
+Starting the game is very simple. Players do not even need to hold a Neogen Space Monkey to begin. Simply [click here](https://play.spacemonkey.games "Single Play Space Monkey") to start playing! Link your wallet to confirm ownership of a NGSM and you'll be able to save your game data, submit your high scores to the leaderboard and customize the appearance of your monkey based on the traits on your NGSM NFT.
 
 ![](/l1.gif)
 
