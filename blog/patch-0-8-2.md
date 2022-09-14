@@ -26,4 +26,4 @@ We added some analytics to track player progression and errors. This isn't used 
 * Fixed Achievement pop-up clipping with certain resolutions
 * Pit spike damage increased
 * Normalized coin collection sound
-* Minor bug fixes
+* Tracking enemy deaths, player deaths, total time played and more
