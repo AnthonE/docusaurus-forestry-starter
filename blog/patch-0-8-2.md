@@ -1,7 +1,9 @@
 ---
-tags: []
-id: Update 1- Analytics
-title: Update 1- Analytics
+tags:
+- Single Player
+- Update
+id: Single Player Update 1- Analytics
+title: Single Player Update 1- Analytics
 author: Anthony
 author_title: Game designer and programmer
 author_url: https://twitter.com/EckertAnthony
