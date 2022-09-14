@@ -120,14 +120,14 @@
         docs: {
           sidebarPath: require.resolve('./sidebars.json'),
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/AnthonE/docusaurus-forestry-starter/edit/master/',
+         // editUrl:
+           // 'https://github.com/AnthonE/docusaurus-forestry-starter/edit/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/AnthonE/docusaurus-forestry-starter/edit/master/blog/',
+         // editUrl:
+           // 'https://github.com/AnthonE/docusaurus-forestry-starter/edit/master/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
