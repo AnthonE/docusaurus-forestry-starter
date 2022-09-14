@@ -10,12 +10,12 @@
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     announcementBar: {
-      id: 'support_us',
+      id: 'leaderboard',
      content:
           'Leaderboard Contest! Join the <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/doodlelabs">Discord</a> for all details',
       backgroundColor: '#18191A',
       textColor: '#1F75FF',
-      isCloseable: true,
+      isCloseable: false,
     },
     colorMode: {
       defaultMode: 'dark',
@@ -124,13 +124,13 @@
            // 'https://github.com/AnthonE/docusaurus-forestry-starter/edit/master/',
         },
         blog: {
-       //   showReadingTime: true,
+          showReadingTime: true,
         //  blogSidebarCount: '5',
 
 
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/AnthonE/docusaurus-forestry-starter/edit/master/blog/',
+         // editUrl:
+         //   'https://github.com/AnthonE/docusaurus-forestry-starter/edit/master/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
