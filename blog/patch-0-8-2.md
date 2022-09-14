@@ -1,23 +1,29 @@
 ---
 tags: []
-id: patch-0-8-2
-title: Patch 0.8.2
+id: Update 1- Analytics
+title: Update 1- Analytics
 author: Anthony
 author_title: Game designer and programmer
 author_url: https://twitter.com/EckertAnthony
 author_image_url: https://storageapi.fleek.co/94da0b0e-3d2c-46dc-a94c-df68eb5eec1b-bucket/ngsm.png
 
 ---
+# Update 1- Analytics
 
-# Patch 0.8.2
+We added some analytics to track player progression and errors. This isn't used for advertising or anything like that. The ability to figure out where too many players are dying or that a button is not functioning properly all the time, really helps us to improve the product. With that said, you will need to accept some terms and services after this update. 
 
-After the latest round of feedback we decided to ease up on the difficulty of the early game. We gave additional health to the player and made some physics adjustments to make movement more forgiving. Then we modified the controls some and added cyclops traits to the player. Our focus is now on optimizing load time and enhancing performance of the web game while working on mobile builds.
+**Thanks for the support in this effort, it will really help us make a better game!**
 
-## Bug Fixes
-- Added cyclops traits
-- Increased health
-- Decreased fall drag
-- Decreased gravity slightly
-- 'Up' and 'W' buttons jump
-- Decreased enemy health in level 1 and level 2
-- Adjusted difficulty of level 1 traps
+![](/img/txh4j5ccmo.png)
+
+## Changes
+
+* Fixed Achievement pop-up clipping with certain resolutions
+* Added game analytics system and acceptance dialogue
+* Added several more hearts throughout Level 4
+* Added many more coins to Level 4 upper sections
+* Fixed issue where submission could overwrite a better value
+* Fixed Achievement pop-up clipping with certain resolutions
+* Pit spike damage increased
+* Normalized coin collection sound
+* Minor bug fixes
