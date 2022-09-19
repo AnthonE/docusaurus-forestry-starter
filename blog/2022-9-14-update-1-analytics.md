@@ -14,7 +14,7 @@ id: Single-Player-Update-1-Analytics-Story
 ---
 # Learning from data
 
-We added some analytics to track player progression and errors. This isn't used for advertising or anything like that. The ability to figure out where too many players are dying or that a button is not functioning properly all the time, really helps us to improve the product. With that said, you will need to accept some terms and services after this update.
+We added some analytics to track player progression and errors. This isn't used for advertising or anything like that. The ability to figure out where too many players are dying or that a button is not functioning properly all the time, really helps us to improve the product. 
 
 **Thanks for the support in this effort, it will really help us make a better game!**
 
@@ -22,11 +22,15 @@ We added some analytics to track player progression and errors. This isn't used 
 
 ## Story
 
-After receiving feedback from you wonderful players we decided to fully implement the story. Our lost space monkey isn't 100% sure what's going on after losing his way and cargo all over this parallel dimension. Now it's your job to pick it all up and figure out how to get back to base in one piece. The new dialogue system can be speed up by any button and completely skipped by the menu button.
+After receiving feedback from you wonderful players we decided to fully implement the story. Our lost space monkey isn't 100% sure what's going on after losing his way and cargo all over this parallel dimension. Now it's your job to pick it all up and figure out how to get back to base in one piece. The new dialogue system can speed up by any button press and completely skipped by the menu button.
+
+![](/img/cewi91ivcz.png)
 
 ## Polish
 
 Additional feedback had some changes applied to basic shots effects and most sound effects. Basic shots got a massive size increase and new set of particles while their sound got routed to a redone sound manager to prevent the sounds from cutting off too soon. Also applied the manager change to other sounds where appropriate, so keep an ear out for and give us additional feedback!
+
+![](/img/ccdpjugnh5.png)
 
 ## Competitive Contest 1 Results (Level 1)
 
@@ -39,11 +43,11 @@ Additional feedback had some changes applied to basic shots effects and most sou
 ## Change List
 
 * Added game analytics system and acceptance dialogue
-* Added story and dialogue system 
+* Added story and dialogue system
 * Added several more hearts throughout Level 4
 * Added many more coins to Level 4 upper sections
 * Adjusted basic shots effects
-* Adjusted non-hostile sounds 
+* Adjusted non-hostile sounds
 * Fixed issue where score submission could overwrite a better value
 * Fixed achievement pop-up clipping with certain resolutions
 * Pit spike damage increased
